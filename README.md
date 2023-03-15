@@ -3,3 +3,4 @@
 2. Second step is to feel good
 3. Third step is to make good
 4. Fourth step is to go good
+5. Just do it
